@@ -35,11 +35,17 @@ Caso queira ver meus projetos, role para baixo! 🚀
 
 
 ## Estatísticas
-<div style="display: inline_block">
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Marra-o-9&show_icons=true&title_color=F6F1E9&text_color=000000&bg_color=-30,6C3483,8E44AD,BB8FCE"/>
 
-  <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marra-o-9&layout=compact&langs_count=7&hide=EJS&card_width=340&title_color=F6F1E9&text_color=000000&bg_color=-30,6C3483,8E44AD,BB8FCE"/>
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <a href="https://github.com/Marra-o-9">
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=Marra-o-9&show_icons=true&theme=tokyonight" />
+  </a>
+
+  <a href="https://github.com/Marra-o-9">
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marra-o-9&layout=compact&langs_count=8&card_width=400&hide=EJS&theme=tokyonight" />
+  </a>
 </div>
+
 
 
 ## Tecnologias & Ferramentas
