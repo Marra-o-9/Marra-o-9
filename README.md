@@ -30,6 +30,7 @@ Caso queira ver meus projetos, role para baixo! 🚀
 [![CrewAI](https://img.shields.io/badge/CrewAI-ff5a50?style=for-the-badge\&logo=crewai\&logoColor=white)](https://www.crewai.com/)
 [![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge\&logo=twilio\&logoColor=white)](https://www.twilio.com/)
 [![Render](https://img.shields.io/badge/Render-141414?style=for-the-badge\&logo=render\&logoColor=white)](https://render.com/)
+[![Supabase](https://shields.io/badge/supabase-3dcb8b?style=for-the-badge\&logo=supabase\&logoColor=white)](https://supabase.com/)
 [![Ngrok](https://img.shields.io/badge/Ngrok-02238f?style=for-the-badge\&logo=Ngrok\&logoColor=white)](https://ngrok.com/)
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)](https://flask.palletsprojects.com/)
 [![LangChain](https://img.shields.io/badge/LangChain-1c3c3c?style=for-the-badge\&logo=langchain\&logoColor=white)](https://www.langchain.com/)
