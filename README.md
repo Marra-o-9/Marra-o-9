@@ -18,7 +18,7 @@ Caso queira ver meus projetos, role para baixo! 🚀
 ## Estatísticas
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Marra-o-9&show_icons=true&theme=tokyonight" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Marra-o-9&show_icons=true&theme=tokyonight&rank_icon=github" />
     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marra-o-9&layout=compact&langs_count=8&card_width=400&hide=EJS&theme=tokyonight" />
 </div>
 
