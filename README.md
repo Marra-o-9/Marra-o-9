@@ -1,6 +1,6 @@
-## Olá! Eu sou o Henrique Marra Barbosa, bem-vindo ao meu GitHub 👋😄
+## Olá! Eu sou o Henrique Marra Barbosa, bem-vindo ao meu GitHub 👋🤠
 
-Sou formado em **Tecnologia em Inteligência Artificial** pela **FIAP**, com foco em desenvolvimento de soluções práticas envolvendo **IA**, **automação**, **chatbots híbridos** e **integrações com APIs**. Tenho experiência sólida em Python e JavaScript, e gosto de transformar ideias em projetos reais e funcionais.
+Sou formado em **Tecnologia em Inteligência Artificial** pela **FIAP**, com foco em desenvolvimento de soluções práticas envolvendo **IA**, **automação**, **chatbots híbridos** e **integrações com APIs**. Tenho experiência sólida em Python, JavaScript e Typescript, e gosto de transformar ideias em projetos reais e funcionais.
 
 Caso queira ver meus projetos, role para baixo! 🚀
 
@@ -33,6 +33,7 @@ Caso queira ver meus projetos, role para baixo! 🚀
 [![Supabase](https://shields.io/badge/supabase-3dcb8b?style=for-the-badge\&logo=supabase\&logoColor=white)](https://supabase.com/)
 [![Ngrok](https://img.shields.io/badge/Ngrok-02238f?style=for-the-badge\&logo=Ngrok\&logoColor=white)](https://ngrok.com/)
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)](https://flask.palletsprojects.com/)
+[![Upstash](https://img.shields.io/badge/upstash-00E9A3?style=for-the-badge\&logo=upstash\&logoColor=white)](https://upstash.com/)
 [![LangChain](https://img.shields.io/badge/LangChain-1c3c3c?style=for-the-badge\&logo=langchain\&logoColor=white)](https://www.langchain.com/)
 [![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge\&logo=sqlite\&logoColor=white)](https://www.sqlite.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-130654?style=for-the-badge\&logo=pandas\&logoColor=white)](https://pandas.pydata.org/)
