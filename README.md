@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Henrique Marra Barbosa, bem-vindo ao meu GitHub 👋🤠
 
-Sou formado em **Tecnologia em Inteligência Artificial** pela **FIAP**, com foco em desenvolvimento de soluções práticas envolvendo **IA**, **automação**, **chatbots híbridos** e **integrações com APIs**. Tenho experiência sólida em Python, JavaScript e Typescript, e gosto de transformar ideias em projetos reais e funcionais.
+Sou formado em **Tecnologia em Inteligência Artificial** pela **FIAP**, com foco em desenvolvimento de soluções práticas envolvendo **IA**, **automação**, **chatbots híbridos** e **integrações com APIs**. Tenho experiência sólida em Python, JavaScript e TypeScript, e gosto de transformar ideias em projetos reais e funcionais.
 
 Caso queira ver meus projetos, role para baixo! 🚀
 
